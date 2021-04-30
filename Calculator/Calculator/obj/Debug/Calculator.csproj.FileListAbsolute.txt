@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Github\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Github\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Github\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Github\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\CSE_Course\8th_Semester\OBJECT ORIENTED PROGRAMMING 2\Calculator\Calculator\obj\Debug\Calculator.pdb
